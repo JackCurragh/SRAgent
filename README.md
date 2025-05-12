@@ -147,7 +147,7 @@ Obtain specific metadata for >=1 SRA dataset.
   * The agent consolidates the metadata into a single report
 
 > As of now, the metadata fields are hard-coded into the agent.
-> If you need alternative metadata fields, you will have to modify [metadata.py](./workflows/metadata.py).
+> If you need alternative metadata fields, you will have to modify [metadata.py](./SRAgent/workflows/metadata.py).
 
 #### Examples
 
